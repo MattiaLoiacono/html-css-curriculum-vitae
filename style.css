@@ -5,3 +5,11 @@
 #centro {
     text-align: center;
 }
+
+.immagine {
+    width: 250px;px ;
+    height: 250px;
+    margin-left:auto;
+    margin-right: auto;
+    display: block;
+}
