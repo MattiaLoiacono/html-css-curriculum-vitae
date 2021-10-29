@@ -7,9 +7,18 @@
 }
 
 .immagine {
-    width: 250px;px ;
+    width: 250px;
     height: 250px;
     margin-left:auto;
     margin-right: auto;
     display: block;
+}
+
+header {
+    background-color:gainsboro;
+}
+
+hr {
+    border-color: orange;
+    background-color: orange;
 }
